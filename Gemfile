@@ -20,6 +20,8 @@ gem 'puma', '~> 3.7'
 gem 'bcrypt', '~> 3.1', '>= 3.1.11'
 gem 'jwt', '~> 1.5', '>= 1.5.6'
 gem 'active_model_serializers', '~> 0.10.6'
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+gem 'faker', '~> 1.7', '>= 1.7.3'
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use Capistrano for deployment
